@@ -4,6 +4,13 @@
 <!-- Mirrored from devsproteam.com/dpthemes/My logic/ by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 23 Jan 2017 08:29:15 GMT -->
 <head>
  <!-- ========== Meta Tags ========== -->
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<script>
+  (adsbygoogle = window.adsbygoogle || []).push({
+    google_ad_client: "ca-pub-1669738479320863",
+    enable_page_level_ads: true
+  });
+</script>
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,7 +68,11 @@
 							        <span class="icon-bar"></span>
 							        <span class="icon-bar"></span>
 						      	</button>
-						      	
+						      	<ol>
+						      		<li class="smooth-menu">
+										<a class="navbar-brand" href="#top"><img src="images/logo-1.png" alt="Logo" /></a>
+									</li>
+						      	</ol>
 							</div>
 							<!-- Collect the nav links, forms, and other content for toggling -->
 							<div class="collapse navbar-collapse" id="navbar-menu">
@@ -79,19 +90,25 @@
 										<a href="#team-area">team</a>
 									</li>
 									<li class="smooth-menu">
-										<a href="#work-area">Quotes <br>of the Week</a>
-									</li>
-									<li class="smooth-menu">
 										<a href="#join-tem-area">join</a>
 									</li>
+									
 									<li class="smooth-menu">
-										<a href="#testimonial-area">Quotes from <br>Legends</a>
+										<a href="#testimonial-area">testimonial</a>
+									</li>
+									<li class="smooth-menu">
+										<a href="#about-area">achivement</a>
 									</li>
 									<li class="smooth-menu">
 										<a href="#email-area">contact</a>
 									</li>
-									
-									
+									<li class="smooth-menu">
+										<a href="#address-area">location</a>
+									</li>
+									</li>
+									<li class="smooth-menu">
+										<a href="quotes.php">Quotes</a>
+									</li>
 								</ul>
 							</div><!-- /.navbar-collapse -->
 						</div>
@@ -117,7 +134,17 @@
 					                        <h1 data-animation="animated flipInX">
 					                        	We are <strong>unique</strong>
 					                        </h1>
-								 			
+								 			<p data-animation="animated flipInX">
+								 				Assumenda error velit dolorem, eos!
+								 			</p>
+								 			<div class="more-button">
+								 				<a href="#" class="lead wow slideInUp" data-wow-duration="3s" data-wow-delay="0s">
+								 					start now
+									 			</a>
+									 			<a href="#" class="lead wow slideInUp" data-wow-duration="3s" data-wow-delay="0s">
+									 				view more
+									 			</a>
+								 			</div>
 				                        </div>
 				                    </div>
 				                </div>
@@ -135,7 +162,17 @@
 					                        <h1 data-animation="animated flipInX">
 					                        	We are <strong>creative</strong>
 					                        </h1>
-								 			
+								 			<p data-animation="animated flipInX">
+								 				Assumenda error velit dolorem, eos!
+								 			</p>
+								 			<div class="more-button">
+								 				<a href="#" class="lead wow slideInUp" data-wow-duration="3s" data-wow-delay="0s">
+								 					start now
+									 			</a>
+									 			<a href="#" class="lead wow slideInUp" data-wow-duration="3s" data-wow-delay="0s">
+									 				view more
+									 			</a>
+								 			</div>
 				                        </div>
 				                    </div>
 				                </div>
@@ -153,7 +190,17 @@
 					                        <h1 data-animation="animated flipInX">
 					                        	We are <strong>flexible</strong>
 					                        </h1>
-								 			
+								 			<p data-animation="animated flipInX">
+								 				Assumenda error velit dolorem, eos!
+								 			</p>
+								 			<div class="more-button">
+								 				<a href="#" class="lead wow slideInUp" data-wow-duration="3s" data-wow-delay="0s">
+								 					start now
+									 			</a>
+									 			<a href="#" class="lead wow slideInUp" data-wow-duration="3s" data-wow-delay="0s">
+									 				view more
+									 			</a>
+								 			</div>
 				                        </div>
 				                    </div>
 				                </div>
@@ -656,9 +703,10 @@
 			<div class="row">
 				<div class="latest-project-area">
 					<div class="latest-project-single-item fist-item col-md-3">
-						<h4>Quotes Of Week</h4>
-						<p>Few of<br> best quotes<br> selected for this week</p>
-					
+						<h4>LATEST PROJECTS</h4>
+						<p>
+							Pellentesque gravida diam orci, vitae venenatis est eleifend sed. Proin non pretium turpi
+						</p>
 					</div>
 					<div class="latest-porect-carousel-area col-md-9">
 						<div class="latest-project-item-carousel">	
@@ -666,82 +714,77 @@
 								<img src="images/work-1.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-1.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
-										<a href="images/work-1.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            	<i class="fa fa-camera"></i>
+		                            </a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
 		                            </a>
 		                        </div>
-								
 							</div>
 							<div class="latest-project-single-item">
 								<img src="images/work-2.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-2.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
-										<a href="images/work-2.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            	<i class="fa fa-camera"></i>
+		                            </a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
 		                            </a>
 		                        </div>
-								
 							</div>
 							<div class="latest-project-single-item">
 								<img src="images/work-3.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-3.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
-										<a href="images/work-3.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            	<i class="fa fa-camera"></i>
+		                            </a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
 		                            </a>
 		                        </div>
-								
 							</div>
 							<div class="latest-project-single-item">
 								<img src="images/work-4.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-4.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
-										<a href="images/work-4.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            	<i class="fa fa-camera"></i>
+		                            </a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
 		                            </a>
 		                        </div>
-								
 							</div>
 							<div class="latest-project-single-item">
 								<img src="images/work-5.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-5.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
-										<a href="images/work-5.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            	<i class="fa fa-camera"></i>
+		                            </a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
 		                            </a>
 		                        </div>
-								
 							</div>
 							<div class="latest-project-single-item">
 								<img src="images/work-6.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-6.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
+		                            	<i class="fa fa-camera"></i>
 		                            </a>
-		                            <a href="images/work-6.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
+		                            </a>
 		                        </div>
 							</div>
 							<div class="latest-project-single-item">
 								<img src="images/work-7.jpg" alt="Work" />
 								<div class="works-item-overlay">
 		                            <a href="images/work-7.jpg" class="strip" data-strip-caption="View Portfolio" data-strip-group="Glaring">
-		                            	<i class="fa fa-search" aria-hidden="true"></i>
+		                            	<i class="fa fa-camera"></i>
 		                            </a>
-		                           <a href="images/work-6.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+		                            <a href="#">
+		                            	<i class="fa fa-link"></i>
+		                            </a>
 		                        </div>
 							</div>
 						</div> 
@@ -758,13 +801,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="heading-style">
-					<h2>Quotes for <span>Life</span></h2>
+					<h2>join <span>OUR</span> team</h2>
 					<div class="heading-bottom">
 						<span></span><span></span>
 					</div>
 					<div class="heading-content">
 						<p>
-							These are few quotes for life.
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique sit mollitia voluptatibus dolorum provident<br> illum natus laborum, reprehenderit ipsam 
 						</p>
 					</div>
 				</div>
@@ -774,80 +817,87 @@
 							<img src="images/join-1.jpg" alt="Join">
 							<div class="border-overlay"></div>
 							<div class="overlay-content">
-								<a href="images/join-1.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+								
+								<a href="https://goo.gl/forms/UmlAqNrAdx6flrY02">join now</a>
 							</div>
 						</div>
 						<div class="join-carousel-single">
 							<img src="images/join-2.jpg" alt="Join">
 							<div class="border-overlay"></div>
 							<div class="overlay-content">
-								<a href="images/join-2.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+								
+								<a href="https://goo.gl/forms/UmlAqNrAdx6flrY02">join now</a>
 							</div>
 						</div>
 						<div class="join-carousel-single">
 							<img src="images/join-3.jpg" alt="Join">
 							<div class="border-overlay"></div>
 							<div class="overlay-content">
-								<a href="images/join-3.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
+								<a href="https://goo.gl/forms/UmlAqNrAdx6flrY02">join now</a>
+								
 							</div>
 						</div>
 						<div class="join-carousel-single">
 							<img src="images/join-4.jpg" alt="Join">
 							<div class="border-overlay"></div>
 							<div class="overlay-content">
-								<a href="images/join-4.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
-							</div>
+								<a href="https://goo.gl/forms/UmlAqNrAdx6flrY02">join now</a>
+								</div>
 						</div>
 					</div>
 				</div>
-					<div class="col-md-6 join-carousel-area">
-					<div class="join-team-inner">
-						<div class="join-carousel-single">
-							<img src="images/join-1.jpg" alt="Join">
-							<div class="border-overlay"></div>
-							<div class="overlay-content">
-								<a href="images/join-1.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
-							</div>
-						</div>
-						<div class="join-carousel-single">
-							<img src="images/join-2.jpg" alt="Join">
-							<div class="border-overlay"></div>
-							<div class="overlay-content">
-								<a href="images/join-2.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
-							</div>
-						</div>
-						<div class="join-carousel-single">
-							<img src="images/join-3.jpg" alt="Join">
-							<div class="border-overlay"></div>
-							<div class="overlay-content">
-								<a href="images/join-3.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
-							</div>
-						</div>
-						<div class="join-carousel-single">
-							<img src="images/join-4.jpg" alt="Join">
-							<div class="border-overlay"></div>
-							<div class="overlay-content">
-								<a href="images/join-4.jpg" download="Quote">
-									<i class="fa fa-arrow-down" aria-hidden="true"></i>
-										</a>
-							</div>
-						</div>
-					</div>
+				<div class="col-md-6 join-item">
+					 <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+				        <div class="panel panel-default">
+				            <div class="panel-heading" role="tab" id="headingOne">
+				                <h3 class="panel-title">
+				                    <a role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+				                        <i class="more-less glyphicon glyphicon-plus"></i>
+				                        Consequuntur ducimus dolorem ?
+				                    </a>
+				                </h3>
+				            </div>
+				            <div id="collapseOne" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+				                <div class="panel-body">
+				                      Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				                </div>
+				            </div>
+				        </div>
+				        <div class="panel panel-default">
+				            <div class="panel-heading" role="tab" id="headingTwo">
+				                <h3 class="panel-title">
+				                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+				                        <i class="more-less glyphicon glyphicon-plus"></i>
+				                        Aperiam amet facere, odio !
+				                    </a>
+				                </h3>
+				            </div>
+				            <div id="collapseTwo" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingTwo">
+				                <div class="panel-body">
+				                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				                </div>
+				            </div>
+				        </div>
+
+				        <div class="panel panel-default">
+				            <div class="panel-heading" role="tab" id="headingThree">
+				                <h3 class="panel-title">
+				                    <a class="collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+				                        <i class="more-less glyphicon glyphicon-plus"></i>
+				                        Lorem ipsum dolor sit amet
+				                    </a>
+				                </h3>
+				            </div>
+				            <div id="collapseThree" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingThree">
+				                <div class="panel-body">
+				                    Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+				                </div>
+				            </div>
+				        </div>
+				    </div><!-- panel-group -->
 				</div>
+			</div>
+		</div>
 	</section><!-- / Join Team Section -->
 
 
@@ -1027,14 +1077,50 @@
 
 	<!-- START ABOUT AREA
 	============================================= -->
-	<section id="about-area" class="section-padding">
-		
-	</section><!-- / END ABOUT AREA -->
+
 
 	<!-- START PARTNERS AREA
 	============================================= -->
 	<section id="partners-area"  class=" section-padding">
-		
+		<div class="container">
+			<div class="row">
+				<div class="heading-style">
+					<h2>our <span>partners</span></h2>
+					<div class="heading-bottom">
+						<span></span><span></span>
+					</div>
+				</div>
+				<div class="partners-area">
+					<div class="single-partner">
+						<img src="images/partner-1.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-2.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-3.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-4.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-5.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-6.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partners/partner-7.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-8.png" alt="Partners">
+					</div>
+					<div class="single-partner">
+						<img src="images/partner-9.png" alt="Partners">
+					</div>
+				</div>
+			</div>
+		</div>
 	</section><!-- / END PARTNERS AREA -->
 
 
@@ -1050,7 +1136,7 @@
 					</div>
 					<div class="heading-content">
 						<p>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Similique sit mollitia voluptatibus dolorum provident<br> illum natus laborum, reprehenderit ipsam 
+							Any Queries 
 						</p>
 					</div>
 				</div>
@@ -1090,9 +1176,9 @@
 				<div class="row">
 					<div class="address-content">
 						<h3>visit our company</h3>
-						<h2>washington, USA</h2>
-						<h4> TfD›50 states, United States of America</h4>
-						<h4>+44 820 560 5567</h4>
+						<h2>Hyderabad,India</h2>
+						<h4> Sanjeeva Reddy Nagar</h4>
+						<h4>+91 720 758 9007</h4>
 					</div>
 				</div>
 			</div>
@@ -1102,18 +1188,89 @@
 
 	<!-- START MAP AREA
 	============================================= -->
+	<div id="maps-area" class="section-padding">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6 goole-map">
+					<div id="google-maps">
+				       <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7612.569751956586!2d78.43960212238775!3d17.4460740021737!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb90e76b6662c5%3A0x9ad96c95b077cb8e!2sSanjeeva+Reddy+Nagar%2C+Hyderabad%2C+Telangana+500038!5e0!3m2!1sen!2sin!4v1485345268801" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+					   </div><!-- / Google maps-->
+				</div>
+				<div class="contact-details col-md-6">
+	                <ul>
+	                    <li>
+	                        <div class="contact-icon-bar">
+	                         	<i class="fa fa-map-marker"></i>
+	                        </div>
+	                        <div class="contact-short-details">
+	                            <p>
+	                            	Sanjeeva Reddy Nagar,Hyderabad.
+	                            </p>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <div class="contact-icon-bar">
+	                         	<i class="fa fa-phone"></i>
+	                        </div>
+	                        <div class="contact-short-details">
+	                            <p>
+	                            	Phone: +91 801 980 8172 <br/>  
+	                            	
+	                            </p>
+	                        </div>
+	                    </li>
+	                    <li>
+	                        <div class="contact-icon-bar">
+	                         	<i class="fa fa-envelope"></i>
+	                        </div>
+	                        <div class="contact-short-details">
+	                            <a href="mailto:joe@example.com?subject=feedback">mylogicpvtltd@gmail.com</a>
+	                            </div>
+	                    </li>
+	                    <li>
+	                        <div class="contact-icon-bar">
+	                         	<i class="fa fa-clock-o"></i>
+	                        </div>
+	                        <div class="contact-short-details">
+	                            <p>
+	                            	Monday-Friday: 9am - 5pm <br/>
+	                            	Saturday: 10am - 2pm
+	                            </p>
+	                        </div>
+	                    </li>
+	                </ul>
+	            </div>
+			</div>
+		</div>
+	</div><!-- END MAP AREA-->
+
 	<!-- START FOOTER SECTION
 	============================================= -->
 	<footer class="section-padding">
+		<div class="container">
+			<div class="row">
 				
+					<div class="footer-heading default-stl">
+						<a href="#">
+							<img src="images/bottom-logo.png" alt="Footer Logo">
+						</a>
+					</div>
+					<div class="single-footer-item footer-item-content">
+						<address>
+							Designed by <a href="mailto:sailokeshgoud@gmail.com">Lokesh</a>.<br>
+							Developed by <a href="mailto:kurellasumanth@gmail.com">Sumanth</a>.<br> 							
+						</address>
+					</div>
+				
+				</div>
 		</div>
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
 					<div class="col-md-6">
 						<p>
-							&copy; Copyright 2016 - 
-							<a href="#">MyLogic Solutions</a>.
+							&copy; Copyright 2016
+							<a href="#">MyLogic IT Solutions</a>.
 						</p>
 					</div>
 					<div class="col-md-6">
